@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
 title[<b>Блок ПРИБОР</b>]
  h1(["BPEMЯ=Tслом"])==> h2["сост:=<br>сломан"]
@@ -85,7 +87,4 @@ style par2 fill:#fae,stroke:#bbb,stroke-width:2px;
 style par4 fill:#ccc,stroke:#555,stroke-width:2px;
 classDef navig fill:#eda,stroke:#333,stroke-width:1px;
 class h15 navig;
-
-  
-
-
+```
